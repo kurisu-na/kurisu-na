@@ -1,7 +1,8 @@
-- 👋 Hello, I’m Christina! In case you didn't know, "Kurisu" is the katakana spelling of "Chris."
-- 👀 I have a lot of interests, including languages. I have a day job as a data scientist, but sometimes I still freelance as an English-Indonesian translator.
-- 🌱 I’m currently learning about... hmm, a lot of things.
-- 💞️ I'm a nerd! I love science, tech, sci-fi, video games, anime... a lot of things, really.
+# 👋 Hello~!
+- 👩‍💻 I’m Christina! In case you didn't know, "Kurisu" is the katakana spelling of "Chris."
+- 👀 I have a lot of interests, including languages. I have a day job as a junior data scientist, but sometimes I still freelance as an English-Indonesian translator.
+- 🌱 I’m currently learning about how to do my job properly! Haha. It involves processing Indonesian census data, especially about heritage languages.
+- 💞️ I'm a nerd! I love science, tech, sci-fi, fantasy, video games, anime... a lot of things, really.
 - 📫 You can reach me by visiting my translation portfolio website: https://kurisunatasha-at.work/
 
 <!---
